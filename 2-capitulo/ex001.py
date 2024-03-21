@@ -1,1 +1,1 @@
-print('Minha primeira aplicação Python!')
+print('Minha primeira aplicação Python!\nUhuuul!')
